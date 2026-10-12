@@ -53,6 +53,7 @@ make demo-cache     # precompute the demo grids
 ```
 
 After `fetch-model` + `convert-model`, the system runs fully offline (A6).
+Done By Sunesh Krishna N
 
 ## Data provenance gate
 
